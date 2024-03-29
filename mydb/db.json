@@ -1,0 +1,41 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "html",
+      "author": "divya"
+    },
+    {
+      "id": 2,
+      "title": "css",
+      "author": "deepika"
+    },
+    {
+      "id": 3,
+      "title": "javascript",
+      "author": "navya"
+    },
+    {
+      "id": "cfcc",
+      "title": "reactjs",
+      "author": "manvi"
+    },
+    {
+      "id": "5c9b",
+      "title": "nodejs",
+      "author": "manu"
+    },
+    {
+      "id": "8061",
+      "title": "bootstrap",
+      "author": "sakshi"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
