@@ -18,11 +18,13 @@ function Navbar(){
                     <li class="nav-item">
                     <Link class="nav-link" to="/countries">Countries</Link>
                     </li>
+                    <li class="nav-item">
+                    <Link class="nav-link" to="/books">books</Link>
+                    </li>
                 </ul>
                 </div>
             </div>
-            </nav>
-
+        </nav>
     )
 }
 export default Navbar;

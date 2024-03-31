@@ -3,8 +3,7 @@ import { createSlice } from "@reduxjs/toolkit";
 const initialState={
     todos:["goto office","complete work"]
 }
-
-export const todolistSlice = createSlice({
+export const todolistSlice=createSlice({
     name:"todolist",
     initialState,
     reducers:{
